@@ -1,5 +1,5 @@
 <script>
-import { draggable } from "$lib/dnd";
+
 
     export let type;
     export let color;

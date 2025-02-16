@@ -1,11 +1,9 @@
 
 <script>
-    import Board from "$lib/components/Board.svelte";
-    import Pieces from "$lib/components/Pieces.svelte";
 </script>
 
-<h1>Online chess game</h1>
 
-<Board/>
-<!-- <Pieces/> -->
+<h1 color='primary'> Welcome to play an online game </h1>
+
+
 
